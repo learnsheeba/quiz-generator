@@ -1,0 +1,2 @@
+I want to create a quiz generator app which gets the topic from user and generates 10 questions one by one.  Once user answers 10 questions, it displays score in the final page. It calls OpenAI got4 model to generates questions, 4 options and answer keys. I want the react-nextjs front-end and fast-api backend
+

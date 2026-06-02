@@ -1,7 +1,7 @@
 # Quiz Generator (Next.js + FastAPI)
 
 ## Demo
-View the demo video [here](https://www.loom.com/embed/f0a33024d25143bfafde028b37fd0389)
+View the demo video [here](https://www.loom.com/share/821edb1e975b495e8378654366658a4a)
 
 This project generates a 10-question quiz from a user-provided topic using OpenAI `gpt-4o`.
 
